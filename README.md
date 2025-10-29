@@ -1,6 +1,8 @@
 # Vehicle Rental Management System
 
 Author: Omar Shoubaki
+
+
 Department of Electrical and Computer Engineering
 
 ## Project Overview
