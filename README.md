@@ -2,6 +2,7 @@
 
 Author: Omar Shoubaki
 
+Birzeit University
 
 Department of Electrical and Computer Engineering
 
